@@ -1,0 +1,2 @@
+# how to setup development server online using gitub 
+https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-nodejs-project-for-codespaces
